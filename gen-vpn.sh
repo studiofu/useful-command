@@ -1,0 +1,1 @@
+cd /tmp; wget https://raw.githubusercontent.com/cryptopunks/openvpn_paranoid_installer/master/openvpn_paranoid_installer.sh --no-check-certificate -O openvpn_paranoid_installer.sh; bash openvpn_paranoid_installer.sh
