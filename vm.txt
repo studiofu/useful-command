@@ -1,0 +1,5 @@
+VBoxManage startvm "I7-W10U-64-VM-TS" --type headless
+
+VBoxHeadless --startvm "I7-W10U-64-VM-TS"
+
+VBoxManage controlvm "I7-W10U-64-VM-TS" poweroff
